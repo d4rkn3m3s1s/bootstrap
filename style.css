@@ -20,4 +20,48 @@
     width: 150px;
     border-radius: 50% !important;
 }
+.img-container{
+    
+}
 
+.about-us-img{
+   
+}
+
+
+  
+  
+  
+  .product-img {
+    object-fit: cover;
+  }
+  
+  .team img {
+    width: 250px;
+    border: 10px solid #cccccc;
+  }
+  
+  a.social {
+    display: inline-block;
+    width: 40px;
+    height: 40px;
+    color: #fff;
+    border-radius: 50%;
+    background-color: #333;
+    line-height: 40px;
+  }
+  
+  .client img {
+    height: auto;
+    max-height: 50px;
+  }
+  
+  .contact{
+    background: url("./img/map.jpeg") no-repeat
+      center center;
+    background-size: cover;
+    padding-bottom: 20%;
+    padding-top: 20%;
+    color: #eee;
+  }
+  

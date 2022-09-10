@@ -1,11 +1,23 @@
-* {
-    box-sizing: border-box;
-    margin: 0;  
-    padding: 0;
-}
-
-
 
 .front-page {
     background-image: url('./img/banner.jpeg');
+    height: calc(100vh - 56px);) ;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
 }
+.front-page h4, .front-page h3{
+    color: #800080;
+
+}
+
+
+.rounded{
+    color: white;
+    padding: 25px;
+    background-color: #DC3545;
+    height: 150px;
+    width: 150px;
+    border-radius: 50% !important;
+}
+
